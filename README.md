@@ -1,2 +1,2 @@
 # singh.github.com
-bash class 
+This is my first time using git  
